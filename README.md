@@ -1,8 +1,9 @@
-# image-processing-project
+# usc-image-processing-project   
 
 **USC Image Processing Term Project (2009):**  
   
-**Improved the Multiscale Error Diffusion Technique of Digital Halftoning**  
+**Summary**  
+Improved MED runtime by 70%; implemented other algorithms: Direct Binarization, Dithering, and Error Diffusion  
   
 Please see full version in pdf file (Improved_the_Multiscale_Error_Diffusion_Technique_of_Digital_Halftoning.pdf)  
   
