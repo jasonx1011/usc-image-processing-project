@@ -5,9 +5,9 @@
 **Summary**  
 Improved MED runtime by 70%; implemented other algorithms: Direct Binarization, Dithering, and Error Diffusion  
   
-Please see full version in pdf file (Improved_the_Multiscale_Error_Diffusion_Technique_of_Digital_Halftoning.pdf)  
+Please see detail in [full pdf version](./Improved_the_Multiscale_Error_Diffusion_Technique_of_Digital_Halftoning.pdf).
   
-**Sample Pages:**  
+**Selective Pages:**  
 ![sample_plot_1](./assets/sample_plot_1.png)  
 ![sample_plot_2](./assets/sample_plot_2.png)  
 ![sample_plot_3](./assets/sample_plot_3.png)  
